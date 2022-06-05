@@ -8,7 +8,7 @@
 
 - 김성훈 Sung Hoon Kim
 
-- 윤설원 Sul Won Yoon
+- 윤설원 Seol Won Yoon
 
 - 이지민 Ji Min Lee
  
