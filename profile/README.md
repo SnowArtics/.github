@@ -1,6 +1,9 @@
 # Name of our project
 
 - LDC (Learn Dance Challenge)
+- ## We Will Help You Learn Dances!
+- ## It is a platform that people can participate, learn challenges
+- 
 
 # Team Members
 
