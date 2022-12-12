@@ -14,8 +14,6 @@
  
 - 장윤영 Yoon Young Jang
 
-> <img width="924" alt="Screen Shot 2022-06-06 at 9 06 42 PM" src="https://user-images.githubusercontent.com/60805546/172157485-0f254bd6-4dbd-4b51-8cf1-3cb97384db3e.png">
-
 # Development Plans
 ## 22' Summer
 - Data Acquisition
@@ -61,10 +59,6 @@
 > > - A real time human pose detection library
 > > - Data extracted only from images and photos.
 > > <img width="1019" alt="Screen Shot 2022-06-06 at 9 05 19 PM" src="https://user-images.githubusercontent.com/60805546/172157255-8c2ea1e9-8c8f-4630-92ef-da4ba16930d0.png">
-> - LSTM :
-> > - Long Term Memory
-> > - Recurrent Neural Network(RNN) capable of learning order dependence in sequence prediction problems.
-> > <img width="714" alt="Screen Shot 2022-06-06 at 9 06 25 PM" src="https://user-images.githubusercontent.com/60805546/172157397-1862109b-defe-4dd2-98cd-1a8b63fa398e.png">
 
 
 
